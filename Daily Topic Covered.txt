@@ -1,0 +1,6 @@
+Day1:
+Coverup: Printing, Commenting,Debugging,String Manipulation and Variables
+Project: Band Name Generator
+
+Day2:
+Coverup: Data Types,Numbers, Operations, Type Conversion, f-Strings
