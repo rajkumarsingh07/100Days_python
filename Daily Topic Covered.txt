@@ -5,3 +5,7 @@ Project: Band Name Generator
 Day2:
 Topic: Data Types,Numbers, Operations, Type Conversion, f-Strings
 Project: Tips Calculator
+
+Day3:
+Topic: Conditional Statements, Logical Operations, Code Blocks and Scope
+Project: 
