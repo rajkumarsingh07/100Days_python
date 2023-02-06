@@ -8,4 +8,6 @@ Project: Tips Calculator
 
 Day3:
 Topic: Conditional Statements, Logical Operations, Code Blocks and Scope
-Project: 
+comparion Operations( >,<,>=,<=,==,!=)
+lower(), count()
+Project: Tresure Island
