@@ -15,4 +15,7 @@ Project: Tresure Island
 
 Day4:
 Topic: Randomisation and python lists
+module: random() #www.askpython.com 
+list: append(x), extend(iterable), insert(i,x), remove(x),pop([i])
+split: 
 Project: Rock Paper Scissors
