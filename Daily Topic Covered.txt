@@ -19,3 +19,6 @@ module: random() #www.askpython.com
 list: append(x), extend(iterable), insert(i,x), remove(x),pop([i])
 split: 
 Project: Rock Paper Scissors
+
+Day5:
+Topic: For Loops, Range and Code Blocks
