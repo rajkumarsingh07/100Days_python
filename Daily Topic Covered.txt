@@ -22,3 +22,6 @@ Project: Rock Paper Scissors
 
 Day5:
 Topic: For Loops, Range and Code Blocks
+module: len(), range(), max(), min()
+Project: Create a password
+
