@@ -11,21 +11,21 @@ nr_symbols = int(input("How many symbols would you like in your passwd?\n"))
 nr_numbers = int(input("How many numbers would you like in your passwd?\n"))
 
 #Easy_level:- 
-# passwd = " "
-# # range to 1 to 4
-# for char in range(1, nr_letters + 1): 
-# #  randon_char = random.choice(letters)
-# #  passwd = passwd + randon_char
-#    passwd += random.choice(letters)
+passwd = " "
+# range to 1 to 4
+for char in range(1, nr_letters + 1): 
+#  randon_char = random.choice(letters)
+#  passwd = passwd + randon_char
+   passwd += random.choice(letters)
 
-# for char in range(1, nr_symbols + 1): 
-#     passwd += random.choice(symbols)
+for char in range(1, nr_symbols + 1): 
+    passwd += random.choice(symbols)
 
-# for char in range(1, nr_numbers + 1): 
-# #    passwd += int(random.choice(numbers))
-#     randon_char = random.choice(numbers)
-#     passwd = passwd + str(randon_char)
-# print(f" Our final random passwd is: {passwd}")
+for char in range(1, nr_numbers + 1): 
+#    passwd += int(random.choice(numbers))
+    randon_char = random.choice(numbers)
+    passwd = passwd + str(randon_char)
+print(f"Our final easy random passwd is: {passwd}\n")
 
 #Hard_level:- 
 
@@ -48,6 +48,6 @@ random.shuffle(passwd_list)
 passwd = " "
 for char in passwd_list:
     passwd += char
-print(f"Your Final Passwd is: {passwd}")
+print(f"Our final Hard random passwd is: {passwd}")
 
 
