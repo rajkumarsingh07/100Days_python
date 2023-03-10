@@ -12,7 +12,6 @@ comparion Operations( >,<,>=,<=,==,!=)
 lower(), count()
 Project: Tresure Island
 
-
 Day4:
 Topic: Randomisation and python lists
 module: random() #www.askpython.com 
@@ -23,5 +22,10 @@ Project: Rock Paper Scissors
 Day5:
 Topic: For Loops, Range and Code Blocks
 module: len(), range(), max(), min()
-Project: Create a password
+Project: Create a password Generator
 
+Day6:
+Topic: Functions, Code Blocks and While Loops
+module: 
+Indentation, Spaces vs Tabs
+Project: Escaping the Maze
